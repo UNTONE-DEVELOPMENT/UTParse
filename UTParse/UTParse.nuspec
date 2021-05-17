@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Untone.UTParse</id>
+    <version>1.0.1</version>
+    <title>UTParse</title>
+    <authors>Matteo Forlani</authors>
+    <owners>UNTONE</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/UNTONE-DEVELOPMENT/UTParse</projectUrl>
+    <description>C# Library for parsing UNTONE Project Info files (project.info).</description>
+    <releaseNotes>Created nuget package.</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>UTParse</tags>
+    <summary>Parse UNTONE Project Files</summary>
+    <icon>logo.png</icon>
+  </metadata>
+  <files>
+    <file src="logo.png" target="" />
+  </files>
+</package>

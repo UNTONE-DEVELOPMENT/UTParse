@@ -13,14 +13,14 @@ namespace UTParse
             string[] linesUT = utinfo.Split(Environment.NewLine);
             int currentIndex = 0;
             string version = "";
-            foreach (string s in linesUT)
+            foreach (string s in utinfo.Split("\n"))
             {
                 if (s.Contains("UNTONE Project Info File"))
                 {
                     string prefix = "UNTONE Project Info File";
                     version = s.Substring(prefix.Length + 1, 3);
                 }
-                else if (s.Contains(":") && !string.IsNullOrWhiteSpace(s))
+                if (s.Contains(":") && !string.IsNullOrWhiteSpace(s))
                 {
 
                     var colonIndex = s.IndexOf(":");
