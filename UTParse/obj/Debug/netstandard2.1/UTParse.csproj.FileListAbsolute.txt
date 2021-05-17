@@ -1,9 +1,0 @@
-/Users/matteoforlani/Projects/UTParse/UTParse/bin/Debug/netstandard2.1/UTParse.deps.json
-/Users/matteoforlani/Projects/UTParse/UTParse/bin/Debug/netstandard2.1/UTParse.dll
-/Users/matteoforlani/Projects/UTParse/UTParse/bin/Debug/netstandard2.1/UTParse.pdb
-/Users/matteoforlani/Projects/UTParse/UTParse/obj/Debug/netstandard2.1/UTParse.csprojAssemblyReference.cache
-/Users/matteoforlani/Projects/UTParse/UTParse/obj/Debug/netstandard2.1/UTParse.AssemblyInfoInputs.cache
-/Users/matteoforlani/Projects/UTParse/UTParse/obj/Debug/netstandard2.1/UTParse.AssemblyInfo.cs
-/Users/matteoforlani/Projects/UTParse/UTParse/obj/Debug/netstandard2.1/UTParse.csproj.CoreCompileInputs.cache
-/Users/matteoforlani/Projects/UTParse/UTParse/obj/Debug/netstandard2.1/UTParse.dll
-/Users/matteoforlani/Projects/UTParse/UTParse/obj/Debug/netstandard2.1/UTParse.pdb
